@@ -2,24 +2,36 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics with Python 
 
-[Sales Forecasting for Rossmann Stores]
+Sales Forecasting for Rossmann Stores
 <img src="images/salesforecasting.png?raw=true"/>
 
 ---
-[Kidney Stones & Simpson Paradox]
+
+
+### Data Analytics with R
+Kidney Stones & Simpson Paradox
 <img src="images/kidneys.jpg?raw=true"/>
 
 ---
-[Airbnb Listings Exploration]
+Airbnb Listings Exploration
 <img src="images/Airbnb.jpeg?raw=true"/>
 
 ---
 
+The Discoveries of Handwashing
+<img src="images/handwashing.jpg?raw=true"/>
 
+---
 
-### Category Name 2
+The Kaggle Data Science Survey on Popular Programming Languages
+<img src="images/kaggle_programminglanguage.png?raw=true"/>
+
+---
+
+Degrees that Pay You Back
+<img src="images/degree.jpg?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
