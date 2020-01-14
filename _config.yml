@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Michelle Giang 
+logo: "/images/profile.png?raw=true" 
+description: >
+  Test website
+  <br><br>
+  Test project
+  <br><br>
+  <a href="https://www.linkedin.com/in/my-giang/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+
