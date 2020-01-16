@@ -15,7 +15,7 @@ Sales Forecasting for Rossmann Stores
 ---
 
 [Reducing Traffic Mortality in the USA](https://github.com/kieumy179/Python-Reducing-Traffic-Mortality-in-the-USA)
-<img src="images/traffic.jpg?raw=true"/>
+<img src="images/trafficaccident.jpg?raw=true"/>
 
 
 ### Data Analytics with R
