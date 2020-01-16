@@ -30,7 +30,7 @@ Airbnb Listings Exploration
 ---
 
 [The Kaggle Data Science Survey on Popular Programming Languages](https://github.com/kieumy179/R-Exploring-the-Kaggle-Data-Science-Survey)
-<img src="images/kaggle_programminglanguage.png?raw=true"/>
+<img src="images/coding.jpg?raw=true"/>
 
 ---
 
