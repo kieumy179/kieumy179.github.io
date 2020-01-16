@@ -5,7 +5,7 @@
 ### Data Analytics with Python 
 
 Sales Forecasting for Rossmann Stores
-<img src="images/salesforecasting.png?raw=true"/>
+<img src="images/rossmann.png?raw=true"/>
 
 ---
 
