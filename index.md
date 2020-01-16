@@ -9,6 +9,12 @@ Sales Forecasting for Rossmann Stores
 
 ---
 
+[Predicting Credit Card Approvals](https://github.com/kieumy179/Python-Predicting-Credit-Card-Approvals)
+<img src="images/creditcard.jpg?raw=true"/>
+
+---
+
+[Reducing Traffic Mortality in the USA](https://github.com/kieumy179/Python-Reducing-Traffic-Mortality-in-the-USA)
 
 
 
@@ -17,11 +23,11 @@ Sales Forecasting for Rossmann Stores
 <img src="images/kidneys.jpg?raw=true"/>
 
 ---
+
 Airbnb Listings Exploration
 <img src="images/Airbnb.jpeg?raw=true"/>
 
 ---
-
 
 [The Kaggle Data Science Survey on Popular Programming Languages](https://github.com/kieumy179/R-Exploring-the-Kaggle-Data-Science-Survey)
 <img src="images/kaggle_programminglanguage.png?raw=true"/>
