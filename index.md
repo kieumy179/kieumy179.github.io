@@ -4,7 +4,7 @@
 
 ### Data Analytics with Python 
 
-Sales Forecasting for Rossmann Stores
+[Sales Forecasting for Rossmann Stores](https://github.com/kieumy179/Python-Sales-Forecasting-for-Rossman-store)
 <img src="images/salesforecasting.png?raw=true"/>
 
 ---
@@ -36,11 +36,7 @@ Airbnb Listings Exploration
 
 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
