@@ -1,6 +1,13 @@
 ## Portfolio
 
 ---
+### Datawarehousing Project: SQL - Oracle and Pentaho
+
+[NYC restaurants & building inspections and complaints analysis]
+ 
+### Big Data Project: Google Cloud, Apache Spark - SQL, Python
+
+[NYC Yellow Taxi trips exploratory and predictive analysis]
 
 ### Data Analytics with Python 
 
