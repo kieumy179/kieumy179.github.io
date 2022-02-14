@@ -7,7 +7,7 @@
  
 ### Big Data Project: Google Cloud, Apache Spark - SQL, Python
 
-[NYC Yellow Taxi trips exploratory and predictive analysis]
+[NYC Yellow Taxi trips exploratory and predictive analysis](https://github.com/kieumy179/NYC-Yellow-Taxi-trips-exploratory-and-predictive-analysis/blob/main/README.md)
 
 ### Data Analytics with Python 
 
