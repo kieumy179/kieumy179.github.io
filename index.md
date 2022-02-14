@@ -4,11 +4,15 @@
 ### Datawarehousing Project: SQL - Oracle and Pentaho
 
 [NYC restaurants & building inspections and complaints analysis](https://github.com/kieumy179/NYC-restaurants-building-inspections-and-complaints-analysis/blob/main/README.md)
- 
+<img src="images/nycrestaurant.jpg?raw=true"/>
+
+ ---
 ### Big Data Project: Google Cloud, Apache Spark - SQL, Python
 
 [NYC Yellow Taxi trips exploratory and predictive analysis](https://github.com/kieumy179/NYC-Yellow-Taxi-trips-exploratory-and-predictive-analysis/blob/main/README.md)
+<img src="images/taxi.jpeg?raw=true"/>
 
+---
 ### Data Analytics with Python 
 
 [Sales Forecasting for Rossmann Stores](https://github.com/kieumy179/Python-Sales-Forecasting-for-Rossman-store)
@@ -17,6 +21,7 @@
 ---
 
 [CareerVillage Platform Improvement](https://github.com/kieumy179/CareerVillage-Platform-improvement/blob/main/README.md)
+<img src="images/careervillage.png?raw=true"/>
 
 ---
 
