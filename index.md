@@ -16,6 +16,10 @@
 
 ---
 
+[CareerVillage Platform Improvement]
+
+---
+
 [Predicting Credit Card Approvals](https://github.com/kieumy179/Python-Predicting-Credit-Card-Approvals)
 <img src="images/creditcard.jpg?raw=true"/>
 
