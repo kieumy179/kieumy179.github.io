@@ -3,7 +3,7 @@
 ---
 ### Datawarehousing Project: SQL - Oracle and Pentaho
 
-[NYC restaurants & building inspections and complaints analysis]
+[NYC restaurants & building inspections and complaints analysis](https://github.com/kieumy179/NYC-restaurants-building-inspections-and-complaints-analysis/blob/main/README.md)
  
 ### Big Data Project: Google Cloud, Apache Spark - SQL, Python
 
