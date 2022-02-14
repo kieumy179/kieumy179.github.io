@@ -21,7 +21,7 @@
 ---
 
 [CareerVillage Platform Improvement](https://github.com/kieumy179/CareerVillage-Platform-improvement/blob/main/README.md)
-<img src="images/careervillage.png?raw=true"/>
+<img src="images/careervillage2.png?raw=true"/>
 
 ---
 
